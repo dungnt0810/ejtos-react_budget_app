@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
